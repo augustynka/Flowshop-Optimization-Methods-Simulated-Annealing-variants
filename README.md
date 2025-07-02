@@ -1,0 +1,1 @@
+[Flowshop_Optimization_Methods_Simulated_Annealing_variants_README.pdf](https://github.com/user-attachments/files/21023911/Flowshop_Optimization_Methods_Simulated_Annealing_variants_README.pdf)
